@@ -1,0 +1,8 @@
+tika -> 자바 의존성을 갖고 있으며, pip install tika 명령어로 설치 후 사용, 느리다는 평가가 많음.
+https://m.post.naver.com/viewer/postView.nhn?volumeNo=28871327&memberNo=34865381
+
+plumber -> pdfminer 텍스트, 그림, 테이블을 추출하여 사용가능
+https://blog.naver.com/onestepahead/222272939315
+
+pypdf-> 한글 제대로 안나옴
+
