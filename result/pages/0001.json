@@ -1,0 +1,43 @@
+{
+	"page": 1,
+	"width": 533,
+	"height": 729,
+	"object": [
+		{
+			"id": 1,
+			"order": 1,
+			"type": "text",
+			"area": [
+				[
+					237,
+					115
+				],
+				[
+					462,
+					160
+				]
+			],
+			"content": "심리학개론",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 2,
+			"order": 2,
+			"type": "text",
+			"area": [
+				[
+					410,
+					206
+				],
+				[
+					462,
+					218
+				]
+			],
+			"content": "박주용 외",
+			"credibility": 0.0,
+			"url": ""
+		}
+	]
+}

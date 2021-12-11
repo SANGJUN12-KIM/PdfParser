@@ -1,0 +1,439 @@
+{
+	"page": 4,
+	"width": 533,
+	"height": 729,
+	"object": [
+		{
+			"id": 1,
+			"order": 1,
+			"type": "text",
+			"area": [
+				[
+					85,
+					240
+				],
+				[
+					465,
+					634
+				]
+			],
+			"content": "심성 모형 이론이 있다. 심성\b논리\b이론에서는 사람들이 전제로부터 결론에 이르는 과정이 수학에서의 증명 과정과 비슷하다고 본다. 전제로부터 결론에 이르도록 전제를 변형시켜 보거나, 거꾸로 결론으로부터 시작하여 전제를 도출하는 전략이 사용된다. 쉽게 해결되는 삼단논법 문제는 증명에 필요한 변형이 몇 단계만 거치면 가능한 문제들이고, 너무 많은 규칙을 사용해야 해서 작업 기억 용량을 초과할 경우에는 잘 못 풀게 된다는 것이다. 이에 반해 심성\b모형\b이론에서는 벤다이어그램이나 그 밖에 다른 모형을 구축하여 참/거짓을 판단한다고 주장한다. 쉬운 문제는 구축되는 모형이 하나나 두 개 정도일 때이고, 어려운 문제는 여러 개의 모형을 구축해야 하거나 벤다이어그램으로 표상하기 어려운 문제라는 것이다.조건추리에서는 “p이면 q이다”에 대한 사람들의 이해를 탐색하고자 한다. 논리학에서의 조건문은 우리가 일상적으로 사용하는 조건문과 차이가 있다. 논리학에서의 조건문은 함축인 데 반해, 일상 언어에서의 조건문은 대개 등가나 결여로, 이 차이는 [표 5-1]의 진리표를 통해 확인할 수 있다.실제로 웨이슨(Wason, 1968)이 고안한 선택 과제를 사용하면 사람들이 함축보다는 등가로 반응하는 경향을 볼 수 있다. 이 과제에서는 “한 면이 모음이면 다른 면에 짝수가 있다”는 문장의 참/거짓을 판단하기 위해 어떤 카드를 뒤집어 보아야 하는지를 선택하도록 한다. 그 결과 대부분의 실험참여자가 A를 선택하고(53%), 짝수를 선택한 실험참여자도 46%나 된다. 정답인 홀수 3을 선택한 실험참여자는 4%에 불과하였다. 이 카드를 뒤집었을 때 뒷면에 모음이 있표\b5-1.\b진리표p\tqTTFTTFFF함축\t등가",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 2,
+			"order": 2,
+			"type": "text",
+			"area": [
+				[
+					85,
+					679
+				],
+				[
+					155,
+					687
+				]
+			],
+			"content": "5장\t\t사고와\t문제해결\b",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 3,
+			"order": 3,
+			"type": "text",
+			"area": [
+				[
+					102,
+					221
+				],
+				[
+					465,
+					232
+				]
+			],
+			"content": "사람들이 삼단논법 과제를 어떻게 처리하는지 설명하는 이론으로 심성 논리 이론과 ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 4,
+			"order": 4,
+			"type": "text",
+			"area": [
+				[
+					113,
+					68
+				],
+				[
+					203,
+					117
+				]
+			],
+			"content": "모든 A는 B다.모든 B는 C다.따라서 모든 A는 C다. ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 5,
+			"order": 5,
+			"type": "text",
+			"area": [
+				[
+					113,
+					145
+				],
+				[
+					203,
+					193
+				]
+			],
+			"content": "모든 A는 B다.어떤 B는 C다.따라서 어떤 A는 C다. ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 6,
+			"order": 6,
+			"type": "text",
+			"area": [
+				[
+					229,
+					107
+				],
+				[
+					233,
+					116
+				]
+			],
+			"content": " ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 7,
+			"order": 7,
+			"type": "text",
+			"area": [
+				[
+					229,
+					183
+				],
+				[
+					233,
+					193
+				]
+			],
+			"content": " ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 8,
+			"order": 8,
+			"type": "text",
+			"area": [
+				[
+					265,
+					107
+				],
+				[
+					279,
+					117
+				]
+			],
+			"content": "(1) ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 9,
+			"order": 9,
+			"type": "text",
+			"area": [
+				[
+					265,
+					184
+				],
+				[
+					276,
+					193
+				]
+			],
+			"content": "(2)",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 10,
+			"order": 10,
+			"type": "table",
+			"area": [
+				[
+					377,
+					427
+				],
+				[
+					467,
+					526
+				]
+			],
+			"content": "PHRhYmxlIGJvcmRlcj0iMSIgY2xhc3M9ImRhdGFmcmFtZSI+CiAgPHRoZWFkPgogICAgPHRyIHN0eWxlPSJ0ZXh0LWFsaWduOiByaWdodDsiPgogICAgICA8dGg+PC90aD4KICAgICAgPHRoPjA8L3RoPgogICAgICA8dGg+MTwvdGg+CiAgICAgIDx0aD4yPC90aD4KICAgIDwvdHI+CiAgPC90aGVhZD4KICA8dGJvZHk+CiAgICA8dHI+CiAgICAgIDx0aD4wPC90aD4KICAgICAgPHRkPnE8L3RkPgogICAgICA8dGQ+7ZWo7LaVPC90ZD4KICAgICAgPHRkPuuTseqwgDwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGg+MTwvdGg+CiAgICAgIDx0ZD5UPC90ZD4KICAgICAgPHRkPlQ8L3RkPgogICAgICA8dGQ+VDwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGg+MjwvdGg+CiAgICAgIDx0ZD5GPC90ZD4KICAgICAgPHRkPkY8L3RkPgogICAgICA8dGQ+RjwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGg+MzwvdGg+CiAgICAgIDx0ZD5UPC90ZD4KICAgICAgPHRkPlQ8L3RkPgogICAgICA8dGQ+RjwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGg+NDwvdGg+CiAgICAgIDx0ZD5GPC90ZD4KICAgICAgPHRkPlQ8L3RkPgogICAgICA8dGQ+VDwvdGQ+CiAgICA8L3RyPgogIDwvdGJvZHk+CjwvdGFibGU+",
+			"credibility": 0.0,
+			"url": "../images/table/0004_0001.png"
+		},
+		{
+			"id": 11,
+			"order": 11,
+			"type": "text",
+			"area": [
+				[
+					420,
+					453
+				],
+				[
+					424,
+					462
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 12,
+			"order": 12,
+			"type": "text",
+			"area": [
+				[
+					420,
+					473
+				],
+				[
+					424,
+					481
+				]
+			],
+			"content": "F",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 13,
+			"order": 13,
+			"type": "text",
+			"area": [
+				[
+					420,
+					493
+				],
+				[
+					424,
+					501
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 14,
+			"order": 14,
+			"type": "text",
+			"area": [
+				[
+					420,
+					512
+				],
+				[
+					424,
+					521
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 15,
+			"order": 15,
+			"type": "text",
+			"area": [
+				[
+					450,
+					453
+				],
+				[
+					454,
+					462
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 16,
+			"order": 16,
+			"type": "text",
+			"area": [
+				[
+					450,
+					473
+				],
+				[
+					454,
+					481
+				]
+			],
+			"content": "F",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 17,
+			"order": 17,
+			"type": "text",
+			"area": [
+				[
+					450,
+					493
+				],
+				[
+					454,
+					501
+				]
+			],
+			"content": "F",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 18,
+			"order": 18,
+			"type": "text",
+			"area": [
+				[
+					450,
+					512
+				],
+				[
+					454,
+					521
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 19,
+			"order": 19,
+			"type": "text",
+			"area": [
+				[
+					447,
+					679
+				],
+				[
+					462,
+					688
+				]
+			],
+			"content": "161",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 20,
+			"order": 20,
+			"type": "text",
+			"area": [
+				[
+					475,
+					432
+				],
+				[
+					490,
+					441
+				]
+			],
+			"content": "결여",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 21,
+			"order": 21,
+			"type": "text",
+			"area": [
+				[
+					480,
+					453
+				],
+				[
+					484,
+					462
+				]
+			],
+			"content": "T",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 22,
+			"order": 22,
+			"type": "text",
+			"area": [
+				[
+					480,
+					473
+				],
+				[
+					484,
+					481
+				]
+			],
+			"content": "F",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 23,
+			"order": 23,
+			"type": "text",
+			"area": [
+				[
+					475,
+					492
+				],
+				[
+					492,
+					500
+				]
+			],
+			"content": "무관\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 24,
+			"order": 24,
+			"type": "text",
+			"area": [
+				[
+					475,
+					512
+				],
+				[
+					490,
+					520
+				]
+			],
+			"content": "무관",
+			"credibility": 0.0,
+			"url": ""
+		}
+	]
+}

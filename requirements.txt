@@ -1,0 +1,5 @@
+pdfplumber
+tqdm
+opencv-python
+pandas
+numpyencoder

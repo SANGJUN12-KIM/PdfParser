@@ -1,0 +1,1753 @@
+{
+	"page": 2,
+	"width": 533,
+	"height": 729,
+	"object": [
+		{
+			"id": 1,
+			"order": 1,
+			"type": "text",
+			"area": [
+				[
+					70,
+					69
+				],
+				[
+					92,
+					80
+				]
+			],
+			"content": "차례",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 2,
+			"order": 2,
+			"type": "text",
+			"area": [
+				[
+					70,
+					164
+				],
+				[
+					103,
+					174
+				]
+			],
+			"content": "머리말\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 3,
+			"order": 3,
+			"type": "text",
+			"area": [
+				[
+					79,
+					213
+				],
+				[
+					222,
+					224
+				]
+			],
+			"content": "1장  심리학 연구 내용과 방법\b",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 4,
+			"order": 4,
+			"type": "text",
+			"area": [
+				[
+					70,
+					243
+				],
+				[
+					140,
+					254
+				]
+			],
+			"content": "1.\t심리학이란?\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 5,
+			"order": 5,
+			"type": "text",
+			"area": [
+				[
+					70,
+					261
+				],
+				[
+					72,
+					270
+				]
+			],
+			"content": " ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 6,
+			"order": 6,
+			"type": "text",
+			"area": [
+				[
+					70,
+					274
+				],
+				[
+					72,
+					284
+				]
+			],
+			"content": " ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 7,
+			"order": 7,
+			"type": "text",
+			"area": [
+				[
+					70,
+					310
+				],
+				[
+					81,
+					321
+				]
+			],
+			"content": "2.\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 8,
+			"order": 8,
+			"type": "text",
+			"area": [
+				[
+					70,
+					325
+				],
+				[
+					73,
+					347
+				]
+			],
+			"content": " \t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 9,
+			"order": 9,
+			"type": "text",
+			"area": [
+				[
+					70,
+					352
+				],
+				[
+					73,
+					361
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 10,
+			"order": 10,
+			"type": "text",
+			"area": [
+				[
+					70,
+					375
+				],
+				[
+					164,
+					415
+				]
+			],
+			"content": "3.\t마음에\t대한\t측정\t\t\t1)\t심리\t측정의\t원리\t\t\t \t2)\t정신\t시간\t측정법\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 11,
+			"order": 11,
+			"type": "text",
+			"area": [
+				[
+					70,
+					428
+				],
+				[
+					182,
+					538
+				]
+			],
+			"content": "4.\t심리학의\t역사\t\t\t1)\t구성주의\t심리학\t\t\t \t2)\t행동주의\t심리학\t\t\t3)\t게슈탈트\t심리학\t\t\t \t4)\t정신분석학\t\t\t5)\t정보처리론적\t접근법\t\t\t \t6)\t연결주의적\t접근법\t\t\t7)\t뇌의\t활동에\t대한\t관찰\t\t\t ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 12,
+			"order": 12,
+			"type": "text",
+			"area": [
+				[
+					70,
+					551
+				],
+				[
+					196,
+					605
+				]
+			],
+			"content": "5.\t심리학의\t역할과\t영향\t\t\t1)\t감각과\t지각\t심리학의\t응용\t\t\t2)\t\t\t사람을\t도와줄\t수\t있는\t\t\t심리학\t전문가\t양성\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 13,
+			"order": 13,
+			"type": "text",
+			"area": [
+				[
+					70,
+					619
+				],
+				[
+					193,
+					630
+				]
+			],
+			"content": "6.\t\t뇌과학과\t심리학의\t관계\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 14,
+			"order": 14,
+			"type": "text",
+			"area": [
+				[
+					85,
+					260
+				],
+				[
+					173,
+					270
+				]
+			],
+			"content": "1)\t과학으로서의\t심리학\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 15,
+			"order": 15,
+			"type": "text",
+			"area": [
+				[
+					85,
+					274
+				],
+				[
+					195,
+					284
+				]
+			],
+			"content": "2)\t\t\t과학적\t방법론을\t사용하는\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 16,
+			"order": 16,
+			"type": "text",
+			"area": [
+				[
+					95,
+					288
+				],
+				[
+					151,
+					297
+				]
+			],
+			"content": "심리학\t연구\t예\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 17,
+			"order": 17,
+			"type": "text",
+			"area": [
+				[
+					85,
+					310
+				],
+				[
+					160,
+					334
+				]
+			],
+			"content": "심리학\t연구\t방법\t\t\t1)\t실험법\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 18,
+			"order": 18,
+			"type": "text",
+			"area": [
+				[
+					85,
+					338
+				],
+				[
+					145,
+					362
+				]
+			],
+			"content": "2)\t자연\t관찰법\t\t\t3)\t조사법\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 19,
+			"order": 19,
+			"type": "text",
+			"area": [
+				[
+					206,
+					165
+				],
+				[
+					209,
+					173
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 20,
+			"order": 20,
+			"type": "text",
+			"area": [
+				[
+					214,
+					165
+				],
+				[
+					233,
+					174
+				]
+			],
+			"content": "\t\t\t\t\t\t4",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 21,
+			"order": 21,
+			"type": "text",
+			"area": [
+				[
+					228,
+					214
+				],
+				[
+					236,
+					222
+				]
+			],
+			"content": "13",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 22,
+			"order": 22,
+			"type": "text",
+			"area": [
+				[
+					227,
+					245
+				],
+				[
+					236,
+					253
+				]
+			],
+			"content": "15",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 23,
+			"order": 23,
+			"type": "text",
+			"area": [
+				[
+					227,
+					261
+				],
+				[
+					236,
+					269
+				]
+			],
+			"content": "15",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 24,
+			"order": 24,
+			"type": "text",
+			"area": [
+				[
+					227,
+					289
+				],
+				[
+					236,
+					297
+				]
+			],
+			"content": "18",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 25,
+			"order": 25,
+			"type": "text",
+			"area": [
+				[
+					227,
+					312
+				],
+				[
+					236,
+					362
+				]
+			],
+			"content": "20202121",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 26,
+			"order": 26,
+			"type": "text",
+			"area": [
+				[
+					227,
+					376
+				],
+				[
+					236,
+					415
+				]
+			],
+			"content": "222223",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 27,
+			"order": 27,
+			"type": "text",
+			"area": [
+				[
+					227,
+					430
+				],
+				[
+					236,
+					538
+				]
+			],
+			"content": "2627282829303134",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 28,
+			"order": 28,
+			"type": "text",
+			"area": [
+				[
+					227,
+					553
+				],
+				[
+					236,
+					577
+				]
+			],
+			"content": "3536",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 29,
+			"order": 29,
+			"type": "text",
+			"area": [
+				[
+					227,
+					597
+				],
+				[
+					236,
+					605
+				]
+			],
+			"content": "38",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 30,
+			"order": 30,
+			"type": "text",
+			"area": [
+				[
+					227,
+					620
+				],
+				[
+					236,
+					629
+				]
+			],
+			"content": "39",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 31,
+			"order": 31,
+			"type": "text",
+			"area": [
+				[
+					282,
+					213
+				],
+				[
+					352,
+					225
+				]
+			],
+			"content": "2장  신경과학\b",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 32,
+			"order": 32,
+			"type": "text",
+			"area": [
+				[
+					273,
+					243
+				],
+				[
+					356,
+					254
+				]
+			],
+			"content": "1.\t신경계와\t행동\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 33,
+			"order": 33,
+			"type": "text",
+			"area": [
+				[
+					273,
+					260
+				],
+				[
+					275,
+					268
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 34,
+			"order": 34,
+			"type": "text",
+			"area": [
+				[
+					273,
+					274
+				],
+				[
+					276,
+					283
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 35,
+			"order": 35,
+			"type": "text",
+			"area": [
+				[
+					273,
+					288
+				],
+				[
+					275,
+					298
+				]
+			],
+			"content": " ",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 36,
+			"order": 36,
+			"type": "text",
+			"area": [
+				[
+					273,
+					302
+				],
+				[
+					276,
+					311
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 37,
+			"order": 37,
+			"type": "text",
+			"area": [
+				[
+					273,
+					324
+				],
+				[
+					384,
+					336
+				]
+			],
+			"content": "2.\t신경전달물질과\t행동\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 38,
+			"order": 38,
+			"type": "text",
+			"area": [
+				[
+					273,
+					341
+				],
+				[
+					275,
+					349
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 39,
+			"order": 39,
+			"type": "text",
+			"area": [
+				[
+					273,
+					355
+				],
+				[
+					275,
+					363
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 40,
+			"order": 40,
+			"type": "text",
+			"area": [
+				[
+					273,
+					369
+				],
+				[
+					275,
+					377
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 41,
+			"order": 41,
+			"type": "text",
+			"area": [
+				[
+					273,
+					391
+				],
+				[
+					336,
+					403
+				]
+			],
+			"content": "3.\t\t뇌와\t행동\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 42,
+			"order": 42,
+			"type": "text",
+			"area": [
+				[
+					273,
+					409
+				],
+				[
+					275,
+					417
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 43,
+			"order": 43,
+			"type": "text",
+			"area": [
+				[
+					273,
+					423
+				],
+				[
+					275,
+					431
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 44,
+			"order": 44,
+			"type": "text",
+			"area": [
+				[
+					273,
+					445
+				],
+				[
+					346,
+					456
+				]
+			],
+			"content": "4.\t좌뇌와\t우뇌\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 45,
+			"order": 45,
+			"type": "text",
+			"area": [
+				[
+					273,
+					462
+				],
+				[
+					275,
+					470
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 46,
+			"order": 46,
+			"type": "text",
+			"area": [
+				[
+					273,
+					476
+				],
+				[
+					275,
+					484
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 47,
+			"order": 47,
+			"type": "text",
+			"area": [
+				[
+					273,
+					498
+				],
+				[
+					381,
+					510
+				]
+			],
+			"content": "5.\t뇌와\t신체의\t상호작용\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 48,
+			"order": 48,
+			"type": "text",
+			"area": [
+				[
+					273,
+					515
+				],
+				[
+					275,
+					523
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 49,
+			"order": 49,
+			"type": "text",
+			"area": [
+				[
+					273,
+					529
+				],
+				[
+					275,
+					537
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 50,
+			"order": 50,
+			"type": "text",
+			"area": [
+				[
+					273,
+					543
+				],
+				[
+					275,
+					551
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 51,
+			"order": 51,
+			"type": "text",
+			"area": [
+				[
+					273,
+					557
+				],
+				[
+					275,
+					565
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 52,
+			"order": 52,
+			"type": "text",
+			"area": [
+				[
+					273,
+					579
+				],
+				[
+					336,
+					591
+				]
+			],
+			"content": "6.\t뇌의\t발달\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 53,
+			"order": 53,
+			"type": "text",
+			"area": [
+				[
+					273,
+					597
+				],
+				[
+					275,
+					605
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 54,
+			"order": 54,
+			"type": "text",
+			"area": [
+				[
+					273,
+					611
+				],
+				[
+					275,
+					619
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 55,
+			"order": 55,
+			"type": "text",
+			"area": [
+				[
+					273,
+					625
+				],
+				[
+					275,
+					633
+				]
+			],
+			"content": "\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 56,
+			"order": 56,
+			"type": "text",
+			"area": [
+				[
+					287,
+					260
+				],
+				[
+					375,
+					270
+				]
+			],
+			"content": "1)\t신경계의\t기본\t구조\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 57,
+			"order": 57,
+			"type": "text",
+			"area": [
+				[
+					287,
+					274
+				],
+				[
+					363,
+					283
+				]
+			],
+			"content": "2)\t신경세포의\t종류\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 58,
+			"order": 58,
+			"type": "text",
+			"area": [
+				[
+					287,
+					288
+				],
+				[
+					364,
+					298
+				]
+			],
+			"content": "3)\t신경세포의\t구조\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 59,
+			"order": 59,
+			"type": "text",
+			"area": [
+				[
+					287,
+					302
+				],
+				[
+					337,
+					312
+				]
+			],
+			"content": "4)\t활동전위\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 60,
+			"order": 60,
+			"type": "text",
+			"area": [
+				[
+					287,
+					341
+				],
+				[
+					371,
+					350
+				]
+			],
+			"content": "1)\t신경세포와\t수용기\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 61,
+			"order": 61,
+			"type": "text",
+			"area": [
+				[
+					287,
+					355
+				],
+				[
+					380,
+					364
+				]
+			],
+			"content": "2)\t신경전달물질과\t행동\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 62,
+			"order": 62,
+			"type": "text",
+			"area": [
+				[
+					287,
+					369
+				],
+				[
+					377,
+					378
+				]
+			],
+			"content": "3)\t신경전달물질의\t종류\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 63,
+			"order": 63,
+			"type": "text",
+			"area": [
+				[
+					287,
+					408
+				],
+				[
+					401,
+					418
+				]
+			],
+			"content": "1)\t뇌를\t관찰하는\t과학적\t방법\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 64,
+			"order": 64,
+			"type": "text",
+			"area": [
+				[
+					287,
+					422
+				],
+				[
+					339,
+					432
+				]
+			],
+			"content": "2)\t뇌의\t구조\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 65,
+			"order": 65,
+			"type": "text",
+			"area": [
+				[
+					287,
+					462
+				],
+				[
+					368,
+					471
+				]
+			],
+			"content": "1)\t뇌\t단절\t환자\t실험\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 66,
+			"order": 66,
+			"type": "text",
+			"area": [
+				[
+					287,
+					476
+				],
+				[
+					347,
+					485
+				]
+			],
+			"content": "2)\t좌뇌와\t우뇌\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 67,
+			"order": 67,
+			"type": "text",
+			"area": [
+				[
+					287,
+					515
+				],
+				[
+					386,
+					524
+				]
+			],
+			"content": "1)\t말초신경계의\t구성\t요소\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 68,
+			"order": 68,
+			"type": "text",
+			"area": [
+				[
+					287,
+					529
+				],
+				[
+					371,
+					538
+				]
+			],
+			"content": "2)\t내분비계와\t호르몬\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 69,
+			"order": 69,
+			"type": "text",
+			"area": [
+				[
+					287,
+					543
+				],
+				[
+					438,
+					552
+				]
+			],
+			"content": "3)\t호르몬이\t성적\t행동에\t미치는\t영향\t\t\t67",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 70,
+			"order": 70,
+			"type": "text",
+			"area": [
+				[
+					287,
+					557
+				],
+				[
+					425,
+					566
+				]
+			],
+			"content": "4)\t신경계와\t내분비계의\t조화된\t활동\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 71,
+			"order": 71,
+			"type": "text",
+			"area": [
+				[
+					287,
+					596
+				],
+				[
+					401,
+					606
+				]
+			],
+			"content": "1)\t경험과\t성장을\t통한\t연결망\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 72,
+			"order": 72,
+			"type": "text",
+			"area": [
+				[
+					287,
+					610
+				],
+				[
+					378,
+					620
+				]
+			],
+			"content": "2)\t남성의\t뇌,\t여성의\t뇌\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 73,
+			"order": 73,
+			"type": "text",
+			"area": [
+				[
+					287,
+					624
+				],
+				[
+					389,
+					634
+				]
+			],
+			"content": "3)\t\t\t손상당한\t후\t재결합하여\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 74,
+			"order": 74,
+			"type": "text",
+			"area": [
+				[
+					297,
+					638
+				],
+				[
+					390,
+					647
+				]
+			],
+			"content": "새롭게\t연결되는\t뇌신경\t\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 75,
+			"order": 75,
+			"type": "text",
+			"area": [
+				[
+					430,
+					214
+				],
+				[
+					439,
+					223
+				]
+			],
+			"content": "43",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 76,
+			"order": 76,
+			"type": "text",
+			"area": [
+				[
+					430,
+					245
+				],
+				[
+					438,
+					253
+				]
+			],
+			"content": "45",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 77,
+			"order": 77,
+			"type": "text",
+			"area": [
+				[
+					430,
+					261
+				],
+				[
+					443,
+					283
+				]
+			],
+			"content": "4647\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 78,
+			"order": 78,
+			"type": "text",
+			"area": [
+				[
+					430,
+					288
+				],
+				[
+					443,
+					297
+				]
+			],
+			"content": "47\t\t",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 79,
+			"order": 79,
+			"type": "text",
+			"area": [
+				[
+					430,
+					303
+				],
+				[
+					438,
+					311
+				]
+			],
+			"content": "48",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 80,
+			"order": 80,
+			"type": "text",
+			"area": [
+				[
+					430,
+					326
+				],
+				[
+					438,
+					334
+				]
+			],
+			"content": "50",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 81,
+			"order": 81,
+			"type": "text",
+			"area": [
+				[
+					430,
+					342
+				],
+				[
+					438,
+					350
+				]
+			],
+			"content": "50",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 82,
+			"order": 82,
+			"type": "text",
+			"area": [
+				[
+					430,
+					356
+				],
+				[
+					438,
+					364
+				]
+			],
+			"content": "51",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 83,
+			"order": 83,
+			"type": "text",
+			"area": [
+				[
+					430,
+					370
+				],
+				[
+					438,
+					378
+				]
+			],
+			"content": "52",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 84,
+			"order": 84,
+			"type": "text",
+			"area": [
+				[
+					430,
+					393
+				],
+				[
+					438,
+					402
+				]
+			],
+			"content": "55",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 85,
+			"order": 85,
+			"type": "text",
+			"area": [
+				[
+					430,
+					409
+				],
+				[
+					438,
+					418
+				]
+			],
+			"content": "56",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 86,
+			"order": 86,
+			"type": "text",
+			"area": [
+				[
+					430,
+					423
+				],
+				[
+					438,
+					432
+				]
+			],
+			"content": "58",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 87,
+			"order": 87,
+			"type": "text",
+			"area": [
+				[
+					430,
+					447
+				],
+				[
+					438,
+					455
+				]
+			],
+			"content": "63",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 88,
+			"order": 88,
+			"type": "text",
+			"area": [
+				[
+					430,
+					463
+				],
+				[
+					438,
+					471
+				]
+			],
+			"content": "64",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 89,
+			"order": 89,
+			"type": "text",
+			"area": [
+				[
+					430,
+					477
+				],
+				[
+					438,
+					485
+				]
+			],
+			"content": "64",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 90,
+			"order": 90,
+			"type": "text",
+			"area": [
+				[
+					430,
+					500
+				],
+				[
+					438,
+					508
+				]
+			],
+			"content": "65",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 91,
+			"order": 91,
+			"type": "text",
+			"area": [
+				[
+					430,
+					516
+				],
+				[
+					438,
+					524
+				]
+			],
+			"content": "65",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 92,
+			"order": 92,
+			"type": "text",
+			"area": [
+				[
+					430,
+					530
+				],
+				[
+					438,
+					538
+				]
+			],
+			"content": "67",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 93,
+			"order": 93,
+			"type": "text",
+			"area": [
+				[
+					430,
+					558
+				],
+				[
+					438,
+					566
+				]
+			],
+			"content": "68",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 94,
+			"order": 94,
+			"type": "text",
+			"area": [
+				[
+					430,
+					581
+				],
+				[
+					438,
+					590
+				]
+			],
+			"content": "69",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 95,
+			"order": 95,
+			"type": "text",
+			"area": [
+				[
+					430,
+					597
+				],
+				[
+					438,
+					606
+				]
+			],
+			"content": "69",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 96,
+			"order": 96,
+			"type": "text",
+			"area": [
+				[
+					430,
+					611
+				],
+				[
+					438,
+					620
+				]
+			],
+			"content": "69",
+			"credibility": 0.0,
+			"url": ""
+		},
+		{
+			"id": 97,
+			"order": 97,
+			"type": "text",
+			"area": [
+				[
+					430,
+					639
+				],
+				[
+					438,
+					648
+				]
+			],
+			"content": "70",
+			"credibility": 0.0,
+			"url": ""
+		}
+	]
+}
