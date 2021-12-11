@@ -8,7 +8,7 @@
 ## 설치
 - python 개발환경은 3.9입니다.
 ```python
-git clone https://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@github.com/SANGJUN12-KIM/PdfParser.git
+git clone https://github.com/SANGJUN12-KIM/PdfParser.git
 ```
 ```python
 pip install -r requirements.txt
